@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hosna!</h1>
 <h3 align="center">A passionate web developer/ designer who will be graduating from college soon!</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw0tKlSSU4Xo8Y08xC_TFWeZ&ust=1664824979231000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiyqcCiwvoCFQAAAAAdAAAAABAg![image](https://user-images.githubusercontent.com/91134988/193472569-f72d6511-1f0e-4ec7-9eec-0436fe70d669.png)">
 - 📫 How to reach me **hosnasadatkalantar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
