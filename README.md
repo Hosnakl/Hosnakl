@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hosna!</h1>
-<h3 align="center">A passionate web developer/ designer who is going to graduate from college soon!</h3>
+<h3 align="center">A passionate web developer/ designer who will be graduating from college soon!</h3>
 
 - 📫 How to reach me **hosnasadatkalantar@gmail.com**
 
